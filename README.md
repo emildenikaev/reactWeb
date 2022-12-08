@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Небольшое приложение на реакте в рамках учебного курса "аналог твитера", пусть и с другим дизайном
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,7 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# reactWeb
 
-Небольшое приложение на реакте в рамках учебного курса "аналог твитера", пусть и с другим дизайном
->>>>>>> 1772aee0d44723d5fdf1b06124eb3375ea35ee1e
